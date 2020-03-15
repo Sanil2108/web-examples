@@ -1,0 +1,8 @@
+{
+    "liveServer.settings.https": {
+        "enable": true, //set it true to enable the feature.
+        "cert": "/home/sanil/Documents/examples/pwa/localhost.crt", //full path of the certificate
+        "key": "/home/sanil/Documents/examples/pwa/localhost.key", //full path of the private key
+        "passphrase": ""
+    }
+}
